@@ -7,6 +7,6 @@
 
 
 #### Variables in "HABs_Data_Downloader.py"
-- YYYYMMDD_s: Start date
-- YYYYMMDD_e: End date.
+- YYYYMMDD_s: Start date. (e.g., "2020/01/01" )
+- YYYYMMDD_e: End date.   (e.g., "2023/01/01" )
 - Read_Exist_Data: use "Yes" if you have existing data and want the new data to be append after the existing data.
