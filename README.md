@@ -6,7 +6,7 @@
 - Then, loop over each station to retrieve Ancillary Data
 
 
-#### Variables in dates HABs_Data_Downloader.py
+#### Variables in "HABs_Data_Downloader.py"
 - YYYYMMDD_s: Start date
 - YYYYMMDD_e: End date.
 - Read_Exist_Data: use "Yes" if you have existing data and want the new data to be append after the existing data.
