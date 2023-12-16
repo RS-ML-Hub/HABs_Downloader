@@ -4,10 +4,10 @@
 
 Dependencies
 This code was developed using Windows 11 and Python 3.10. We recommend creating a new conda environment and installing the required dependencies with the following commands:
-...
+'''
 conda env create -f environment.yml
 conda activate u-tilise
-...
+'''
 
 ### Data Source
 - The HABs data are sourced from the Akashiwo "red tide" network of the Fisheries Agency, Japan.
