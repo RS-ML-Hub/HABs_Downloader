@@ -25,10 +25,10 @@ git clone https://github.com/RS-ML-Hub/HABs_Downloader.git
 
 ## Script Workflow
 1.**Configure Dates**: Edit the **YYYYMMDD_s** and **YYYYMMDD_e** variables in **HABs_Data_Downloader.py** to set the start and end dates.
-- **YYYYMMDD_s**: Start date in "YYYY/MM/DD" format. Example: "2023/01/01"
-- **YYYYMMDD_e**: End date in "YYYY/MM/DD" format. Example: "2023/09/30"
+- **YYYYMMDD_s**: Start date in "YYYY/MM/DD" format. (e.g., "2023/01/01")
+- **YYYYMMDD_e**: End date in "YYYY/MM/DD" format.   (e.g., "2023/09/30")
 
-3. Run the script
+3. **Run the script**
 ```
 python HABs_Data_Downloader.py
 ```
