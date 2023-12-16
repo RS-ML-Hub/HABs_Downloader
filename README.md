@@ -2,7 +2,7 @@
 - This script is designed to download in situ data related to Harmful Algal Blooms (HABs) from the Akashiwo "red tide" network, managed by the Fisheries Agency of Japan.  
 - The script automates the process of finding and retrieving available HABs data of Chattonella and Total Diatom within a specified date range and collects Ancillary Data from each station.
 
-Dependencies
+### Dependencies
 This code was developed using Windows 11 and Python 3.10. We recommend creating a new conda environment and installing the required dependencies with the following commands:
 ```
 conda env create -f environment.yml
@@ -10,7 +10,7 @@ conda activate u-tilise
 ```
 
 ### Data Source
-- The HABs data are sourced from the Akashiwo "red tide" network of the Fisheries Agency, Japan.
+- The HABs data are sourced from the [Akashiwo network]([URL](https://akashiwo.jp/) of the Fisheries Agency, Japan.
 
 ### Targeted Species
 - Chattonella
