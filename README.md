@@ -10,7 +10,7 @@ conda activate u-tilise
 ```
 
 ### Data Source
-- The HABs data are sourced from the [Akashiwo network]([URL](https://akashiwo.jp/) of the Fisheries Agency, Japan.
+- The HABs data are sourced from the [Akashiwo network](https://akashiwo.jp/) of the Fisheries Agency, Japan.
 
 ### Targeted Species
 - Chattonella
