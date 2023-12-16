@@ -1,0 +1,10 @@
+name: HABs_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8  # or any version you are using
+  - pandas
+  - requests
+  - beautifulsoup4  # installed from conda-forge
+  - natsort
