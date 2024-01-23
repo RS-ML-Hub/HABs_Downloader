@@ -28,7 +28,7 @@ git clone https://github.com/RS-ML-Hub/HABs_Downloader.git
 - **YYYYMMDD_s**: Start date in "YYYY/MM/DD" format. (e.g., "2023/01/01")
 - **YYYYMMDD_e**: End date in "YYYY/MM/DD" format.   (e.g., "2023/09/30")
 
-3. **Run the script**
+2. **Run the script**
 ```
 python HABs_Data_Downloader.py
 ```
