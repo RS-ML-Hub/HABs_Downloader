@@ -1,7 +1,6 @@
 ############################
 # Code developed by Salem Ibrahim SALEM on  on 16 Oct 2023
 # For inquiries, please contact: salem.ibrahim@kuas.ac.jp
-# Bismillah
 ###########################
 import time
 import requests
