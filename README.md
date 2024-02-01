@@ -37,3 +37,5 @@ python HABs_Data_Downloader.py
 
 
 
+To cite the code use:
+[![DOI](https://zenodo.org/badge/709225624.svg)](https://zenodo.org/doi/10.5281/zenodo.10602817)
